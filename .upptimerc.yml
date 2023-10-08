@@ -9,10 +9,6 @@ sites:
     url: $BECPL_KEYCLOAK_URL
   - name: Becpl
     url: $BECPL_URL
-  # - name: becpl ip ping port
-  #   check: "tcp-ping"
-  #   url: $BECPL_IP_1
-  #   port: 443
 
 assignees: # Users to assign downtime issues (optional)
   - NehalDamania
