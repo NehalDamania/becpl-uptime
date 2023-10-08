@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 56,
-    "timeDay": 56,
-    "timeWeek": 56,
-    "timeMonth": 56,
-    "timeYear": 56,
+    "time": 54,
+    "timeDay": 54,
+    "timeWeek": 54,
+    "timeMonth": 54,
+    "timeYear": 54,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 412,
-    "timeDay": 412,
-    "timeWeek": 412,
-    "timeMonth": 412,
-    "timeYear": 412,
+    "time": 440,
+    "timeDay": 440,
+    "timeWeek": 440,
+    "timeMonth": 440,
+    "timeYear": 440,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/becpl.cf.ico",
     "slug": "becpl",
     "status": "down",
-    "uptime": "71.12%",
-    "uptimeDay": "71.12%",
-    "uptimeWeek": "71.12%",
-    "uptimeMonth": "71.12%",
-    "uptimeYear": "71.12%",
+    "uptime": "10.05%",
+    "uptimeDay": "10.05%",
+    "uptimeWeek": "10.05%",
+    "uptimeMonth": "10.05%",
+    "uptimeYear": "10.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-08": 0
+      "2023-10-08": 3
     }
   }
 ]
