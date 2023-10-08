@@ -23,7 +23,7 @@ status-website:
   baseUrl: /becpl-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Becpl Uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "This page is used to monitor the uptimes of various becpl services."
   introMessage: Uptime Status for the servers is as below
   navbar:
     - title: Status
