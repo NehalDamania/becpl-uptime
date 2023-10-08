@@ -76,19 +76,19 @@
     "url": "https://becpl.cf",
     "icon": "https://icons.duckduckgo.com/ip3/becpl.cf.ico",
     "slug": "becpl",
-    "status": "down",
-    "uptime": "10.05%",
-    "uptimeDay": "10.05%",
-    "uptimeWeek": "10.05%",
-    "uptimeMonth": "10.05%",
-    "uptimeYear": "10.05%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "4.75%",
+    "uptimeDay": "4.75%",
+    "uptimeWeek": "4.75%",
+    "uptimeMonth": "4.75%",
+    "uptimeYear": "4.75%",
+    "time": 5831,
+    "timeDay": 5831,
+    "timeWeek": 5831,
+    "timeMonth": 5831,
+    "timeYear": 5831,
     "dailyMinutesDown": {
-      "2023-10-08": 3
+      "2023-10-08": 9
     }
   }
 ]
