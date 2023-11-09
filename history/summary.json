@@ -4,16 +4,16 @@
     "url": "$BECPL_ANGULAR_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "becpl-angular-ui",
-    "status": "up",
-    "uptime": "94.04%",
-    "uptimeDay": "69.20%",
-    "uptimeWeek": "72.51%",
-    "uptimeMonth": "93.67%",
-    "uptimeYear": "94.04%",
+    "status": "down",
+    "uptime": "94.08%",
+    "uptimeDay": "69.18%",
+    "uptimeWeek": "72.70%",
+    "uptimeMonth": "93.72%",
+    "uptimeYear": "94.08%",
     "time": 3528,
-    "timeDay": 3384,
-    "timeWeek": 3700,
-    "timeMonth": 3527,
+    "timeDay": 3430,
+    "timeWeek": 3693,
+    "timeMonth": 3529,
     "timeYear": 3528,
     "dailyMinutesDown": {
       "2023-11-09": 309,
@@ -23,7 +23,7 @@
       "2023-11-05": 368,
       "2023-11-04": 291,
       "2023-11-03": 429,
-      "2023-11-02": 86
+      "2023-11-02": 66
     }
   },
   {
