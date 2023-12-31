@@ -1,7 +1,7 @@
 url: $BECPL_KEYCLOAK_URL
 status: up
 code: 200
-responseTime: 1301
-lastUpdated: 2023-12-30T23:05:37.134Z
+responseTime: 1275
+lastUpdated: 2023-12-31T23:06:32.749Z
 startTime: 2023-10-08T09:52:04.088Z
 generator: Upptime <https://github.com/upptime/upptime>
