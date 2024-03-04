@@ -6,17 +6,17 @@
     "slug": "becpl-angular-ui",
     "status": "up",
     "uptime": "97.27%",
-    "uptimeDay": "94.63%",
-    "uptimeWeek": "86.14%",
-    "uptimeMonth": "86.77%",
+    "uptimeDay": "95.37%",
+    "uptimeWeek": "86.31%",
+    "uptimeMonth": "86.73%",
     "uptimeYear": "97.27%",
     "time": 3660,
-    "timeDay": 3001,
+    "timeDay": 3052,
     "timeWeek": 3143,
     "timeMonth": 3474,
     "timeYear": 3660,
     "dailyMinutesDown": {
-      "2024-03-03": 78,
+      "2024-03-03": 67,
       "2024-03-02": 32,
       "2024-03-01": 15,
       "2024-02-29": 121,
@@ -28,7 +28,7 @@
       "2024-02-23": 370,
       "2024-02-22": 255,
       "2024-02-21": 505,
-      "2024-02-20": 914
+      "2024-02-20": 941
     }
   },
   {
