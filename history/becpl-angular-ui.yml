@@ -1,7 +1,7 @@
 url: $BECPL_ANGULAR_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-10T23:52:50.050Z
+status: up
+code: 200
+responseTime: 4811
+lastUpdated: 2024-03-11T00:17:56.444Z
 startTime: 2023-10-08T09:51:39.221Z
 generator: Upptime <https://github.com/upptime/upptime>
