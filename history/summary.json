@@ -6,17 +6,17 @@
     "slug": "becpl-angular-ui",
     "status": "up",
     "uptime": "99.04%",
-    "uptimeDay": "86.40%",
-    "uptimeWeek": "84.21%",
-    "uptimeMonth": "94.54%",
+    "uptimeDay": "86.75%",
+    "uptimeWeek": "84.26%",
+    "uptimeMonth": "94.51%",
     "uptimeYear": "99.04%",
     "time": 3875,
-    "timeDay": 5316,
-    "timeWeek": 5266,
-    "timeMonth": 4930,
+    "timeDay": 5398,
+    "timeWeek": 5268,
+    "timeMonth": 4856,
     "timeYear": 3875,
     "dailyMinutesDown": {
-      "2024-03-29": 197,
+      "2024-03-29": 192,
       "2024-03-28": 299,
       "2024-03-27": 324,
       "2024-03-26": 214,
@@ -27,7 +27,7 @@
       "2024-03-21": 241,
       "2024-03-20": 154,
       "2024-03-19": 188,
-      "2024-03-18": 55
+      "2024-03-18": 74
     }
   },
   {
@@ -44,7 +44,7 @@
     "time": 1969,
     "timeDay": 6311,
     "timeWeek": 4409,
-    "timeMonth": 3355,
+    "timeMonth": 3284,
     "timeYear": 1969,
     "dailyMinutesDown": {
       "2024-03-14": 275,
@@ -72,7 +72,7 @@
     "time": 2464,
     "timeDay": 2247,
     "timeWeek": 3698,
-    "timeMonth": 3188,
+    "timeMonth": 3144,
     "timeYear": 2464,
     "dailyMinutesDown": {
       "2024-03-27": 40,
